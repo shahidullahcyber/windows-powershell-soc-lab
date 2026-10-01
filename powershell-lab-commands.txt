@@ -1,0 +1,29 @@
+Windows PowerShell Lab - Practical Notes
+
+Commands practiced during the SOC class:
+
+1. Command Prompt / PowerShell
+   dir
+   cd
+   ping 8.8.8.8
+   ipconfig
+
+2. PowerShell alias
+   Get-Alias dir
+
+3. Network information
+   netstat -h
+   netstat -r
+
+4. Active connections and process information
+   netstat -abno
+
+5. PowerShell elevated privileges
+   Run Windows PowerShell as Administrator when elevated permissions are required.
+
+6. Recycle Bin management
+   clear-recyclebin
+
+Notes:
+- The commands were practiced on a Windows system during a SOC class.
+- Network commands were used for basic connectivity, routing, and active-connection observation.
